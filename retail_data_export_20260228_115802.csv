@@ -1,0 +1,1001 @@
+Customer_Age,Gender,Annual_Income,Customer_Tenure_Months,Purchase_Frequency,Previous_Purchase_Amount,Product_Category,Store_Location,Marketing_Spend,Discount_Offered,Seasonal_Demand_Index,Monthly_Sales,Purchase_Decision,Loyalty_Category
+43,Male,31113,10,3,201,Automotive,Mall,10,13,53,1593,Yes,Bronze
+36,Male,25000,15,2,132,Electronics,Downtown,10,0,36,1182,No,Bronze
+45,Female,42599,40,3,660,Home & Garden,Suburban,10,8,74,2563,Yes,Bronze
+56,Female,70985,2,5,1791,Books,Mall,17,3,60,5428,Yes,Bronze
+35,Male,25000,8,8,887,Toys,Online,10,15,52,1400,No,Bronze
+35,Female,38465,59,2,148,Sports,Suburban,10,4,49,2112,Yes,Bronze
+56,Male,33521,5,3,359,Beauty,Online,10,13,65,1874,Yes,Bronze
+47,Female,50800,15,7,899,Beauty,Airport,10,8,53,1770,Yes,Bronze
+32,Female,40400,71,7,1530,Clothing,Online,10,7,62,3241,Yes,Bronze
+44,Female,25000,6,5,412,Clothing,Suburban,10,4,47,2276,No,Bronze
+32,Female,30960,3,3,250,Clothing,Online,10,4,45,1801,No,Bronze
+32,Female,25000,23,4,403,Clothing,Downtown,10,9,52,1909,Yes,Bronze
+40,Male,62193,12,7,1406,Health,Suburban,10,5,54,2885,Yes,Bronze
+18,Female,36704,29,3,636,Books,Mall,10,5,59,1837,No,Bronze
+18,Male,93957,58,3,878,Food,Online,40,18,69,5082,Yes,Bronze
+31,Female,35230,5,6,490,Books,Downtown,10,11,66,1756,Yes,Bronze
+25,Female,25483,31,6,216,Books,Airport,10,3,69,1641,Yes,Bronze
+41,Female,25000,25,4,396,Electronics,Airport,10,10,49,1787,Yes,Bronze
+27,Male,25000,5,7,581,Toys,Online,10,12,53,1378,Yes,Bronze
+21,Female,25000,35,4,228,Sports,Airport,10,8,66,1763,No,Bronze
+55,Female,41504,11,2,450,Home & Garden,Mall,10,10,69,1372,No,Bronze
+35,Female,46833,24,5,1124,Toys,Suburban,10,5,65,2569,Yes,Bronze
+38,Male,25000,3,4,396,Clothing,Downtown,10,10,52,1430,Yes,Bronze
+20,Male,56812,22,5,1601,Food,Online,10,4,48,2892,Yes,Bronze
+31,Male,28523,13,5,683,Electronics,Airport,10,17,61,1538,Yes,Bronze
+39,Male,39081,62,3,353,Health,Suburban,10,15,50,2660,Yes,Bronze
+24,Female,81316,2,5,1119,Food,Mall,27,10,64,5747,Yes,Bronze
+42,Male,56864,19,3,849,Electronics,Airport,10,11,72,3612,Yes,Bronze
+30,Female,31752,22,4,568,Automotive,Airport,10,2,62,2365,Yes,Bronze
+34,Male,25000,46,5,525,Health,Downtown,10,9,47,1390,Yes,Bronze
+30,Male,25000,30,2,149,Clothing,Mall,10,9,55,1000,Yes,Bronze
+60,Female,25347,39,5,599,Home & Garden,Mall,10,10,70,1355,No,Bronze
+37,Female,32677,54,5,505,Clothing,Online,10,2,66,1767,Yes,Bronze
+25,Female,25000,71,6,581,Food,Downtown,10,11,67,1435,Yes,Bronze
+47,Female,34008,13,1,195,Clothing,Online,10,15,80,1856,Yes,Bronze
+23,Female,37738,27,2,242,Automotive,Downtown,10,21,66,1990,No,Bronze
+40,Male,32453,65,4,274,Clothing,Mall,10,12,66,1741,Yes,Bronze
+18,Female,26238,120,3,215,Electronics,Downtown,10,7,72,1442,Yes,Bronze
+22,Female,39510,79,2,410,Beauty,Downtown,10,11,52,2570,Yes,Bronze
+40,Female,45295,16,4,780,Clothing,Downtown,10,10,59,1942,Yes,Bronze
+46,Male,25000,7,2,192,Automotive,Suburban,10,9,57,1548,Yes,Bronze
+40,Female,73531,24,1,249,Books,Suburban,20,4,71,2196,Yes,Bronze
+36,Male,34568,48,5,792,Books,Mall,10,1,55,1974,Yes,Bronze
+34,Male,36659,24,2,218,Home & Garden,Downtown,10,5,71,2563,No,Bronze
+20,Male,51746,23,7,1581,Home & Garden,Mall,10,12,63,3510,Yes,Bronze
+29,Male,40806,65,4,509,Home & Garden,Suburban,10,3,62,2160,Yes,Bronze
+32,Female,58487,16,1,170,Toys,Downtown,10,12,75,3460,Yes,Bronze
+50,Female,41921,70,5,678,Sports,Online,10,10,53,2763,Yes,Bronze
+42,Female,26736,18,2,189,Home & Garden,Suburban,10,1,62,1670,Yes,Bronze
+18,Male,43510,14,1,171,Clothing,Suburban,10,0,96,2204,Yes,Bronze
+41,Male,25000,21,5,535,Home & Garden,Suburban,10,5,86,1943,Yes,Bronze
+33,Male,38341,51,2,50,Sports,Downtown,10,12,49,1683,Yes,Bronze
+29,Female,35717,4,2,216,Toys,Airport,10,13,63,1586,Yes,Bronze
+45,Male,32726,7,2,231,Sports,Online,10,6,69,2427,No,Bronze
+50,Female,34054,108,3,593,Food,Online,10,6,54,1791,Yes,Bronze
+49,Female,25000,6,2,135,Home & Garden,Mall,10,6,89,801,Yes,Bronze
+27,Male,27601,30,4,463,Home & Garden,Downtown,10,11,69,1975,Yes,Bronze
+34,Female,38041,31,3,661,Home & Garden,Suburban,10,3,67,2850,Yes,Bronze
+41,Female,39337,24,7,667,Food,Airport,10,4,73,2379,No,Bronze
+49,Female,25000,37,4,447,Sports,Downtown,10,17,73,833,Yes,Bronze
+32,Female,68381,9,5,1038,Electronics,Downtown,14,18,62,3786,Yes,Bronze
+35,Male,25000,28,3,254,Clothing,Airport,10,7,83,2017,Yes,Bronze
+24,Male,58966,16,2,358,Automotive,Suburban,10,7,72,3231,Yes,Bronze
+23,Female,44963,39,4,561,Clothing,Downtown,10,5,84,2984,Yes,Bronze
+47,Female,26288,5,3,573,Home & Garden,Online,10,11,65,1801,No,Bronze
+54,Male,88225,30,7,3096,Toys,Online,34,4,53,6828,Yes,Bronze
+37,Female,25000,7,6,798,Food,Airport,10,7,86,2387,Yes,Bronze
+50,Female,57502,11,4,1055,Electronics,Suburban,10,4,79,4099,Yes,Bronze
+42,Female,59891,8,4,496,Health,Airport,10,18,84,3131,Yes,Bronze
+30,Male,25969,7,3,348,Electronics,Downtown,10,8,85,1159,Yes,Bronze
+42,Female,72855,62,6,2311,Automotive,Online,19,21,73,4847,Yes,Bronze
+56,Female,32047,12,4,381,Clothing,Mall,10,18,69,1688,Yes,Bronze
+37,Male,41954,94,2,432,Home & Garden,Airport,10,17,72,2489,Yes,Bronze
+56,Male,41363,120,3,601,Beauty,Mall,10,1,79,1992,Yes,Bronze
+18,Female,33956,30,2,422,Health,Mall,10,16,76,1677,Yes,Bronze
+47,Male,54469,5,1,190,Home & Garden,Online,10,6,55,2796,Yes,Bronze
+39,Female,54000,16,4,579,Food,Airport,10,3,73,2488,Yes,Bronze
+34,Female,25000,57,6,534,Health,Mall,10,3,88,1713,Yes,Bronze
+39,Male,69714,16,4,1595,Automotive,Downtown,16,17,74,4659,Yes,Bronze
+18,Female,25000,3,6,270,Beauty,Suburban,10,21,97,1991,No,Bronze
+35,Male,60856,29,5,461,Sports,Suburban,10,3,65,2917,Yes,Bronze
+42,Female,63790,67,8,2096,Sports,Online,10,13,79,4852,Yes,Silver
+55,Male,25000,57,8,693,Sports,Airport,10,15,65,1044,Yes,Bronze
+31,Female,29572,6,2,237,Toys,Airport,10,19,67,1477,No,Bronze
+28,Male,25000,40,5,641,Sports,Suburban,10,7,67,1665,Yes,Bronze
+31,Male,32615,8,3,326,Books,Downtown,10,2,98,2184,Yes,Bronze
+48,Female,31131,8,7,381,Health,Suburban,10,11,73,1730,Yes,Bronze
+41,Male,53628,74,6,2076,Beauty,Suburban,10,1,69,3791,Yes,Bronze
+31,Female,69923,10,1,196,Food,Airport,16,8,76,4345,Yes,Bronze
+44,Male,72972,10,3,597,Books,Mall,19,10,74,3032,No,Bronze
+39,Female,27416,1,6,875,Books,Downtown,10,10,85,1127,No,Bronze
+49,Male,32708,73,4,462,Beauty,Airport,10,1,56,2412,Yes,Bronze
+29,Female,25000,56,3,294,Food,Suburban,10,8,67,1143,Yes,Bronze
+34,Male,25000,35,6,686,Health,Mall,10,5,86,1883,Yes,Bronze
+33,Male,58831,49,4,1247,Clothing,Downtown,10,5,72,4845,Yes,Bronze
+20,Male,81453,5,4,1172,Home & Garden,Online,28,5,70,5404,Yes,Bronze
+41,Male,25000,22,1,145,Clothing,Downtown,10,10,70,1018,Yes,Bronze
+41,Female,27004,15,8,310,Automotive,Downtown,10,17,85,1198,No,Bronze
+38,Male,35839,3,2,352,Beauty,Suburban,10,3,85,1678,Yes,Bronze
+35,Female,41776,23,4,500,Clothing,Suburban,10,14,88,2398,Yes,Bronze
+21,Male,25000,91,7,988,Clothing,Online,10,21,66,1621,Yes,Bronze
+32,Male,44892,1,6,1123,Clothing,Online,10,2,66,3666,Yes,Bronze
+33,Female,28654,12,3,274,Sports,Online,10,2,90,1887,Yes,Bronze
+28,Female,36054,8,4,691,Electronics,Airport,10,10,80,1818,Yes,Bronze
+36,Male,47721,9,6,1452,Clothing,Airport,10,9,72,3568,No,Bronze
+42,Male,36432,86,3,521,Home & Garden,Suburban,10,4,77,2742,Yes,Bronze
+60,Male,29196,22,5,403,Beauty,Suburban,10,0,66,1734,Yes,Bronze
+40,Female,34378,22,4,470,Automotive,Online,10,17,73,2093,Yes,Bronze
+41,Female,34745,51,3,416,Electronics,Airport,10,12,80,1577,Yes,Bronze
+37,Male,30181,6,3,357,Toys,Mall,10,2,82,1716,Yes,Bronze
+18,Female,31907,24,1,156,Home & Garden,Airport,10,10,78,1324,Yes,Bronze
+37,Female,80766,20,2,255,Home & Garden,Suburban,27,6,77,5251,Yes,Bronze
+38,Female,48072,32,3,634,Sports,Airport,10,8,86,2414,Yes,Bronze
+67,Female,31327,120,2,228,Sports,Suburban,10,17,78,1724,Yes,Bronze
+35,Male,51455,52,4,616,Beauty,Online,10,1,75,3344,Yes,Bronze
+41,Male,30732,18,6,573,Home & Garden,Online,10,13,72,3079,Yes,Bronze
+37,Male,65287,63,6,1466,Food,Online,11,2,62,3793,Yes,Bronze
+23,Male,43687,6,2,50,Food,Mall,10,7,86,1899,Yes,Bronze
+51,Female,34418,1,6,652,Beauty,Mall,10,5,94,2154,Yes,Bronze
+47,Female,45426,8,3,401,Clothing,Suburban,10,5,71,2084,Yes,Bronze
+47,Male,25000,14,4,463,Books,Downtown,10,4,67,1415,Yes,Bronze
+27,Male,25000,25,4,303,Toys,Mall,10,1,73,1776,Yes,Bronze
+54,Male,25000,34,6,561,Automotive,Suburban,10,6,82,1452,Yes,Bronze
+21,Female,39006,86,4,912,Sports,Airport,10,9,74,2618,Yes,Bronze
+45,Male,86358,25,5,2242,Automotive,Online,32,11,74,5814,Yes,Bronze
+64,Female,110818,25,5,2816,Books,Online,57,4,79,7044,Yes,Bronze
+26,Male,49962,1,4,679,Health,Online,10,4,81,3267,Yes,Bronze
+31,Male,46649,1,1,216,Beauty,Suburban,10,0,83,2321,Yes,Bronze
+39,Female,25000,28,5,464,Clothing,Online,10,10,77,934,Yes,Bronze
+31,Female,27685,20,6,625,Electronics,Mall,10,6,76,1853,Yes,Bronze
+19,Male,25000,65,5,561,Clothing,Airport,10,1,60,1704,Yes,Bronze
+38,Female,26624,6,3,262,Home & Garden,Online,10,2,89,1444,Yes,Bronze
+25,Female,33387,1,4,773,Clothing,Suburban,10,3,82,2362,Yes,Bronze
+43,Female,28679,21,6,655,Home & Garden,Airport,10,6,94,2179,No,Bronze
+26,Male,25000,9,4,474,Automotive,Online,10,6,84,1619,Yes,Bronze
+56,Female,52783,1,4,1213,Health,Downtown,10,17,79,3113,Yes,Bronze
+28,Female,25000,46,2,261,Sports,Online,10,0,64,1801,No,Bronze
+34,Female,40930,4,2,189,Health,Mall,10,13,63,1643,Yes,Bronze
+47,Male,102440,33,8,3715,Home & Garden,Airport,49,1,90,6278,Yes,Silver
+23,Male,25000,11,1,125,Electronics,Mall,10,16,85,1436,No,Bronze
+40,Male,25000,6,2,253,Books,Downtown,10,10,94,1490,Yes,Bronze
+53,Female,31476,17,9,754,Automotive,Downtown,10,3,88,2134,No,Bronze
+18,Male,62974,58,4,808,Automotive,Mall,10,1,75,3882,Yes,Bronze
+40,Female,96681,17,6,3012,Clothing,Airport,43,8,56,5381,Yes,Bronze
+41,Female,25000,50,4,308,Sports,Downtown,10,8,85,1530,No,Bronze
+47,Male,46553,4,4,677,Clothing,Downtown,10,3,68,3095,No,Bronze
+23,Female,28777,53,2,339,Clothing,Online,10,8,77,1988,Yes,Bronze
+22,Male,34441,9,2,271,Home & Garden,Suburban,10,6,82,2109,No,Bronze
+44,Female,136239,40,10,4261,Books,Downtown,82,9,72,10000,Yes,Silver
+41,Male,25000,30,2,147,Sports,Airport,10,5,70,970,Yes,Bronze
+41,Female,41227,95,1,181,Clothing,Airport,10,4,75,1196,Yes,Bronze
+42,Female,45882,17,2,220,Automotive,Online,10,20,57,1284,Yes,Bronze
+29,Female,62498,2,3,694,Clothing,Airport,10,9,67,4174,Yes,Bronze
+40,Female,38138,1,1,167,Toys,Online,10,12,67,2137,Yes,Bronze
+41,Female,42362,63,8,1883,Beauty,Downtown,10,7,75,2597,Yes,Bronze
+29,Female,29857,26,7,1003,Automotive,Downtown,10,9,68,1914,Yes,Bronze
+60,Female,41546,53,5,652,Toys,Downtown,10,3,72,2682,Yes,Bronze
+43,Female,30589,9,2,331,Beauty,Downtown,10,10,73,1410,Yes,Bronze
+23,Male,49552,15,3,541,Electronics,Suburban,10,11,98,2258,Yes,Bronze
+45,Female,30187,1,4,303,Toys,Suburban,10,14,84,1460,No,Bronze
+26,Female,43850,117,2,332,Home & Garden,Downtown,10,8,75,1986,Yes,Bronze
+47,Female,35788,39,3,614,Electronics,Airport,10,9,81,2071,Yes,Bronze
+51,Male,63769,97,3,803,Food,Online,10,6,85,4716,Yes,Bronze
+28,Female,35394,11,6,852,Sports,Mall,10,19,79,1721,Yes,Bronze
+49,Male,25000,34,6,894,Automotive,Online,10,6,66,1752,Yes,Bronze
+42,Female,68251,40,7,1090,Food,Mall,14,7,74,4420,No,Bronze
+47,Male,25000,13,6,368,Automotive,Mall,10,14,66,1705,No,Bronze
+60,Female,26189,67,4,215,Sports,Downtown,10,2,72,1414,Yes,Bronze
+35,Female,26961,105,1,119,Sports,Mall,10,15,74,1465,Yes,Bronze
+28,Male,72201,77,6,1819,Automotive,Downtown,18,15,86,4706,Yes,Bronze
+27,Female,25000,48,5,731,Sports,Suburban,10,11,67,1482,Yes,Bronze
+28,Male,174359,11,10,5000,Toys,Airport,120,2,66,7978,Yes,Silver
+37,Female,61576,11,5,1082,Health,Mall,10,8,67,2771,Yes,Bronze
+42,Female,40603,119,2,324,Books,Airport,10,3,68,2548,Yes,Bronze
+41,Female,35332,1,3,438,Automotive,Downtown,10,13,71,2491,Yes,Bronze
+47,Female,41888,45,6,501,Food,Mall,10,3,77,2535,Yes,Bronze
+38,Female,47125,44,5,1708,Food,Online,10,8,66,3916,Yes,Bronze
+55,Male,50141,35,4,927,Sports,Suburban,10,6,74,2914,No,Bronze
+34,Male,47944,120,3,611,Automotive,Suburban,10,10,74,2043,Yes,Bronze
+70,Female,37979,13,3,539,Health,Mall,10,5,78,2089,Yes,Bronze
+45,Female,32903,14,3,478,Health,Suburban,10,11,70,2400,Yes,Bronze
+27,Female,33670,2,2,258,Books,Online,10,4,81,1618,No,Bronze
+25,Female,32943,21,3,320,Toys,Airport,10,3,76,1831,Yes,Bronze
+43,Male,64015,10,5,1510,Books,Online,10,9,75,4742,Yes,Bronze
+35,Female,48863,15,7,1526,Home & Garden,Suburban,10,5,66,3940,Yes,Bronze
+46,Male,25000,64,2,151,Food,Airport,10,13,74,1363,Yes,Bronze
+43,Female,50410,98,6,1724,Health,Online,10,1,75,3705,Yes,Bronze
+37,Male,40029,7,8,1393,Sports,Downtown,10,13,65,3285,Yes,Bronze
+27,Male,35977,16,4,701,Health,Downtown,10,17,82,2186,Yes,Bronze
+19,Male,29903,95,5,847,Health,Airport,10,6,96,2461,Yes,Bronze
+32,Male,63707,2,3,769,Beauty,Airport,10,3,63,4033,Yes,Bronze
+48,Female,58323,3,4,1021,Food,Airport,10,10,65,3243,Yes,Bronze
+40,Male,25000,6,7,870,Home & Garden,Downtown,10,2,65,2022,Yes,Bronze
+23,Male,44512,32,6,835,Books,Online,10,12,56,2469,Yes,Bronze
+40,Male,25000,5,3,304,Home & Garden,Airport,10,2,60,1203,Yes,Bronze
+42,Male,25000,120,4,415,Beauty,Downtown,10,13,77,1130,No,Bronze
+27,Male,26546,21,1,75,Toys,Airport,10,8,67,1284,Yes,Bronze
+39,Male,55893,25,6,2274,Home & Garden,Airport,10,1,87,4023,Yes,Bronze
+38,Female,58487,10,2,270,Health,Airport,10,17,65,4019,Yes,Bronze
+24,Female,46936,22,1,114,Electronics,Downtown,10,4,72,2611,Yes,Bronze
+42,Female,52184,39,4,1164,Automotive,Online,10,9,58,3206,Yes,Bronze
+44,Male,47008,50,5,1141,Home & Garden,Downtown,10,2,66,2884,No,Bronze
+50,Male,26350,50,5,364,Automotive,Downtown,10,8,67,1501,Yes,Bronze
+50,Female,45069,31,8,1704,Beauty,Airport,10,9,45,3175,Yes,Bronze
+21,Female,54187,84,5,1560,Home & Garden,Mall,10,7,58,3191,Yes,Bronze
+26,Male,52952,61,4,839,Home & Garden,Mall,10,12,72,2804,Yes,Bronze
+44,Male,65805,50,6,2810,Clothing,Mall,12,7,71,5107,Yes,Bronze
+44,Male,51748,2,7,699,Health,Downtown,10,2,52,2575,Yes,Bronze
+44,Male,43292,1,3,627,Sports,Airport,10,7,61,2330,Yes,Bronze
+80,Male,62011,8,8,2678,Automotive,Mall,10,4,41,3694,Yes,Bronze
+44,Female,35837,39,5,908,Toys,Suburban,10,9,64,2297,Yes,Bronze
+51,Female,25000,19,4,375,Clothing,Suburban,10,10,76,1735,Yes,Bronze
+49,Female,33472,18,4,488,Health,Suburban,10,11,76,2065,Yes,Bronze
+45,Female,25022,77,3,340,Beauty,Online,10,1,76,1446,Yes,Bronze
+34,Female,25910,81,1,129,Automotive,Airport,10,9,68,1561,Yes,Bronze
+47,Female,33783,86,2,319,Books,Downtown,10,10,74,2123,Yes,Bronze
+28,Female,25000,13,1,131,Beauty,Downtown,10,6,60,1309,Yes,Bronze
+35,Male,31132,42,4,345,Sports,Airport,10,6,56,2399,Yes,Bronze
+32,Male,25000,11,1,93,Automotive,Online,10,2,73,1439,Yes,Bronze
+38,Male,40402,7,6,696,Beauty,Airport,10,4,64,2705,Yes,Bronze
+65,Female,36337,7,5,642,Clothing,Online,10,18,43,1594,Yes,Bronze
+18,Female,25000,15,1,130,Beauty,Mall,10,4,72,874,No,Bronze
+46,Male,50494,20,6,1251,Sports,Mall,10,10,58,3159,Yes,Bronze
+18,Female,58034,63,6,2482,Sports,Online,10,9,53,4649,Yes,Bronze
+32,Male,25000,4,3,317,Electronics,Airport,10,12,69,1486,No,Bronze
+51,Female,25000,47,4,407,Home & Garden,Mall,10,6,67,1823,Yes,Bronze
+38,Male,25000,27,5,515,Books,Airport,10,4,49,1499,No,Bronze
+25,Male,25000,12,4,323,Books,Mall,10,21,56,1379,Yes,Bronze
+29,Female,54980,24,4,864,Clothing,Airport,10,15,49,3088,Yes,Bronze
+46,Male,32961,12,4,705,Sports,Airport,10,12,48,1253,Yes,Bronze
+29,Male,31816,32,4,526,Electronics,Suburban,10,2,27,2645,No,Bronze
+40,Male,25000,20,5,380,Health,Online,10,11,46,1889,Yes,Bronze
+38,Female,49896,6,2,288,Electronics,Downtown,10,16,54,3013,Yes,Bronze
+30,Female,25000,4,3,259,Toys,Online,10,2,27,1857,Yes,Bronze
+63,Male,37420,28,3,458,Beauty,Airport,10,5,42,1929,Yes,Bronze
+45,Female,41718,83,6,1359,Home & Garden,Airport,10,5,61,3203,Yes,Bronze
+18,Female,71705,15,3,514,Electronics,Online,18,9,41,3475,Yes,Bronze
+40,Male,25000,47,6,542,Beauty,Airport,10,6,53,1722,Yes,Bronze
+30,Male,25000,38,6,625,Home & Garden,Mall,10,11,37,1073,Yes,Bronze
+48,Male,39812,96,6,429,Automotive,Airport,10,13,58,2240,No,Bronze
+28,Male,89344,61,7,1876,Toys,Online,35,7,50,3733,Yes,Bronze
+36,Female,67472,30,6,1289,Toys,Online,14,13,44,2965,Yes,Bronze
+44,Male,40329,38,4,491,Sports,Online,10,6,26,2298,Yes,Bronze
+48,Female,28401,82,4,480,Toys,Suburban,10,6,43,1480,Yes,Bronze
+23,Female,54369,18,5,1035,Automotive,Suburban,10,11,58,3405,Yes,Bronze
+33,Male,25000,14,8,666,Sports,Suburban,10,9,67,2376,Yes,Bronze
+32,Female,46082,1,2,415,Food,Suburban,10,5,49,2187,Yes,Bronze
+30,Male,46757,63,3,851,Health,Suburban,10,9,50,2531,Yes,Bronze
+59,Female,61704,58,7,2577,Clothing,Suburban,10,13,43,4642,Yes,Bronze
+42,Female,144326,3,4,977,Beauty,Suburban,90,3,62,6806,Yes,Bronze
+22,Female,44187,30,5,1036,Health,Online,10,11,47,2296,Yes,Bronze
+49,Female,28156,22,3,319,Health,Downtown,10,19,58,1351,Yes,Bronze
+63,Male,35854,4,10,1500,Books,Suburban,10,7,51,3167,Yes,Bronze
+50,Female,25000,120,1,88,Electronics,Online,10,11,50,799,No,Bronze
+19,Female,25658,8,1,106,Toys,Downtown,10,10,38,1066,Yes,Bronze
+32,Female,29594,2,4,495,Food,Suburban,10,9,65,2296,Yes,Bronze
+53,Female,27943,32,7,646,Electronics,Downtown,10,12,62,699,Yes,Bronze
+29,Female,39190,48,1,114,Clothing,Downtown,10,10,70,1913,Yes,Bronze
+43,Male,25000,1,1,86,Electronics,Mall,10,4,35,1705,No,Bronze
+47,Male,63609,38,2,544,Books,Airport,10,10,49,4648,Yes,Bronze
+26,Female,36319,27,4,685,Clothing,Mall,10,9,38,2495,Yes,Bronze
+37,Male,36147,3,4,726,Automotive,Downtown,10,3,50,2734,No,Bronze
+18,Female,30824,6,5,525,Automotive,Online,10,11,48,1506,Yes,Bronze
+25,Female,39245,30,3,511,Sports,Suburban,10,10,40,1806,Yes,Bronze
+34,Male,54860,12,9,2545,Electronics,Airport,10,7,42,5245,Yes,Bronze
+23,Male,25000,100,2,269,Beauty,Suburban,10,17,65,1213,Yes,Bronze
+57,Female,26132,61,6,616,Food,Online,10,2,42,1118,Yes,Bronze
+20,Male,31198,120,2,233,Books,Airport,10,6,21,1831,Yes,Bronze
+32,Female,25000,10,3,317,Clothing,Mall,10,15,37,1312,No,Bronze
+39,Male,25000,120,5,327,Food,Downtown,10,15,31,1491,Yes,Bronze
+55,Female,28620,20,4,431,Electronics,Online,10,9,33,885,Yes,Bronze
+20,Male,56229,15,4,1100,Beauty,Downtown,10,20,49,1487,Yes,Bronze
+51,Female,41410,1,5,987,Electronics,Downtown,10,6,50,2732,Yes,Bronze
+38,Male,40006,1,5,735,Toys,Suburban,10,7,32,2274,Yes,Bronze
+26,Female,55572,42,3,710,Toys,Online,10,9,35,2790,Yes,Bronze
+43,Male,33904,22,3,306,Books,Downtown,10,7,33,2034,Yes,Bronze
+40,Female,44144,9,1,213,Clothing,Mall,10,1,55,1967,Yes,Bronze
+30,Female,34488,34,3,404,Clothing,Airport,10,11,49,1804,Yes,Bronze
+38,Male,41468,10,3,456,Health,Online,10,3,46,2139,No,Bronze
+33,Male,27136,31,6,580,Books,Suburban,10,11,28,2049,Yes,Bronze
+39,Male,25000,16,6,588,Books,Online,10,4,21,1065,Yes,Bronze
+45,Female,33957,62,6,705,Beauty,Suburban,10,3,50,1914,Yes,Bronze
+57,Female,73966,61,4,1417,Toys,Airport,20,12,57,5168,Yes,Bronze
+23,Female,57705,23,2,406,Clothing,Mall,10,3,20,2578,Yes,Bronze
+63,Male,58847,15,3,1043,Electronics,Downtown,10,3,59,3476,Yes,Bronze
+18,Male,67377,16,1,387,Books,Online,13,6,36,4669,Yes,Bronze
+36,Female,37961,58,3,333,Sports,Suburban,10,3,38,2205,Yes,Bronze
+45,Female,40081,14,5,818,Home & Garden,Airport,10,7,23,3498,Yes,Bronze
+41,Female,26666,8,3,257,Clothing,Downtown,10,8,18,1920,Yes,Bronze
+30,Male,31006,3,3,335,Automotive,Airport,10,4,13,1548,Yes,Bronze
+35,Female,49408,22,7,2214,Clothing,Mall,10,5,45,2581,Yes,Bronze
+32,Male,66299,23,3,722,Sports,Downtown,12,10,34,3170,Yes,Bronze
+30,Male,33869,66,3,450,Clothing,Downtown,10,4,39,2107,Yes,Bronze
+48,Female,28995,9,4,539,Sports,Downtown,10,2,45,1936,Yes,Bronze
+42,Female,36325,17,5,508,Home & Garden,Suburban,10,10,33,2422,Yes,Bronze
+29,Female,49050,59,5,729,Health,Downtown,10,9,50,2323,Yes,Bronze
+48,Male,25000,62,4,255,Beauty,Airport,10,9,25,1229,Yes,Bronze
+41,Male,25000,17,8,587,Home & Garden,Suburban,10,7,29,1974,Yes,Bronze
+47,Female,27576,22,6,95,Food,Downtown,10,1,23,2401,Yes,Bronze
+45,Female,25000,13,4,465,Health,Airport,10,9,40,1186,No,Bronze
+28,Male,28167,97,1,182,Beauty,Airport,10,3,43,1481,Yes,Bronze
+31,Male,33728,4,3,422,Toys,Online,10,2,27,1821,Yes,Bronze
+46,Male,28951,97,1,66,Sports,Airport,10,4,17,1540,Yes,Bronze
+45,Female,75074,41,6,1454,Books,Mall,21,17,43,3317,Yes,Bronze
+37,Male,42760,27,4,589,Food,Downtown,10,7,22,2508,Yes,Bronze
+39,Male,42202,1,1,117,Home & Garden,Downtown,10,9,26,2644,Yes,Bronze
+53,Male,49568,23,6,1496,Clothing,Downtown,10,12,19,2111,Yes,Bronze
+30,Male,25000,18,5,621,Home & Garden,Airport,10,3,33,2010,Yes,Bronze
+44,Male,61056,6,4,638,Beauty,Airport,10,9,22,2567,Yes,Bronze
+35,Female,34965,38,6,1021,Food,Downtown,10,11,36,2381,Yes,Bronze
+35,Male,50779,120,5,1480,Electronics,Suburban,10,5,23,3516,Yes,Bronze
+51,Female,25000,29,1,157,Beauty,Suburban,10,17,34,1286,Yes,Bronze
+47,Male,25000,45,5,929,Health,Mall,10,9,19,1594,Yes,Bronze
+47,Female,54663,2,4,637,Home & Garden,Online,10,4,40,3515,Yes,Bronze
+53,Female,43835,19,1,323,Home & Garden,Mall,10,10,23,1690,No,Bronze
+38,Female,25000,4,6,536,Food,Downtown,10,5,28,1988,No,Bronze
+46,Female,25000,34,6,493,Sports,Downtown,10,14,15,1431,No,Bronze
+34,Male,63749,100,3,840,Food,Downtown,10,4,27,3799,Yes,Bronze
+41,Male,25000,39,1,82,Books,Online,10,2,15,1231,Yes,Bronze
+36,Female,82564,2,5,1848,Home & Garden,Airport,29,8,26,6415,Yes,Bronze
+39,Female,25000,15,3,181,Sports,Online,10,14,17,1451,No,Bronze
+45,Female,49970,28,3,556,Sports,Mall,10,8,25,3114,Yes,Bronze
+28,Female,30812,18,2,341,Food,Airport,10,10,30,1924,Yes,Bronze
+63,Female,49098,64,5,965,Toys,Airport,10,2,12,2850,Yes,Bronze
+25,Male,27665,60,3,346,Beauty,Mall,10,4,25,1710,Yes,Bronze
+23,Male,33476,34,1,152,Health,Airport,10,18,29,1662,Yes,Bronze
+51,Female,37066,16,4,801,Toys,Suburban,10,6,29,2544,Yes,Bronze
+47,Female,25000,10,6,302,Home & Garden,Mall,10,5,44,1467,Yes,Bronze
+45,Male,52596,4,3,741,Home & Garden,Mall,10,2,17,2577,Yes,Bronze
+45,Female,28096,15,5,516,Home & Garden,Suburban,10,15,24,2076,Yes,Bronze
+37,Male,32393,19,2,272,Automotive,Online,10,2,42,2084,No,Bronze
+27,Female,25000,40,2,263,Clothing,Online,10,5,10,1164,No,Bronze
+38,Male,25000,38,4,256,Electronics,Online,10,1,1,2121,Yes,Bronze
+29,Male,33007,2,4,367,Automotive,Airport,10,5,29,1709,Yes,Bronze
+49,Female,121334,18,5,1017,Electronics,Suburban,67,5,34,6864,Yes,Bronze
+36,Male,53760,7,5,898,Sports,Mall,10,7,2,3895,Yes,Bronze
+28,Female,35967,6,6,1207,Home & Garden,Mall,10,7,20,2969,Yes,Bronze
+34,Female,31842,63,6,736,Books,Mall,10,2,13,1814,Yes,Bronze
+42,Female,36725,1,2,175,Health,Airport,10,1,26,2205,Yes,Bronze
+31,Male,47741,19,1,163,Food,Airport,10,7,22,2284,Yes,Bronze
+28,Male,25000,6,5,276,Health,Online,10,11,35,1618,No,Bronze
+40,Male,63396,76,5,839,Books,Airport,10,17,9,3432,Yes,Bronze
+40,Female,51932,29,4,927,Food,Online,10,6,26,2790,Yes,Bronze
+31,Female,52004,9,4,539,Sports,Online,10,11,28,2319,Yes,Bronze
+32,Female,45217,25,3,723,Books,Mall,10,4,22,3225,Yes,Bronze
+40,Female,36673,47,7,1004,Home & Garden,Airport,10,21,1,1953,Yes,Bronze
+20,Female,50839,114,3,625,Books,Online,10,8,26,3647,Yes,Bronze
+21,Female,48820,8,5,894,Home & Garden,Suburban,10,8,14,2728,Yes,Bronze
+29,Male,30423,78,6,899,Books,Suburban,10,12,4,2183,Yes,Bronze
+35,Female,27260,98,5,673,Books,Airport,10,7,25,2308,Yes,Bronze
+41,Male,38212,89,6,1009,Toys,Mall,10,9,29,2232,Yes,Bronze
+55,Female,78787,36,4,1474,Health,Mall,25,9,15,4970,Yes,Bronze
+48,Female,25000,35,2,187,Electronics,Online,10,23,29,1314,Yes,Bronze
+36,Female,25000,18,3,348,Automotive,Airport,10,11,29,1225,Yes,Bronze
+37,Male,39433,50,2,283,Toys,Suburban,10,12,20,2147,Yes,Bronze
+25,Male,37251,27,3,447,Electronics,Online,10,3,26,2454,Yes,Bronze
+37,Male,39603,40,3,436,Toys,Online,10,1,30,3043,No,Bronze
+34,Male,41026,20,4,566,Clothing,Downtown,10,15,25,2100,Yes,Bronze
+41,Male,32480,47,4,412,Food,Airport,10,5,0,2050,Yes,Bronze
+28,Female,76491,62,2,697,Home & Garden,Online,23,24,0,3839,Yes,Bronze
+44,Female,25000,5,6,835,Automotive,Suburban,10,2,31,1870,Yes,Bronze
+56,Male,25000,64,5,675,Toys,Downtown,10,8,13,1448,Yes,Bronze
+36,Male,34488,27,4,343,Toys,Suburban,10,17,15,1813,No,Bronze
+42,Male,25000,67,3,416,Sports,Mall,10,0,39,2013,Yes,Bronze
+46,Female,33258,20,6,722,Books,Downtown,10,9,12,2163,Yes,Bronze
+33,Female,83344,17,5,1967,Clothing,Downtown,29,10,18,5040,Yes,Bronze
+40,Female,36696,88,3,320,Automotive,Online,10,2,20,1726,Yes,Bronze
+38,Female,40755,10,5,849,Automotive,Mall,10,1,18,3109,Yes,Bronze
+39,Female,25000,66,5,547,Food,Online,10,9,33,1864,Yes,Bronze
+28,Female,26683,23,5,295,Automotive,Airport,10,5,16,1684,Yes,Bronze
+38,Male,30103,25,4,569,Beauty,Suburban,10,16,27,2395,Yes,Bronze
+43,Female,30981,13,6,1043,Automotive,Suburban,10,11,20,1851,Yes,Bronze
+55,Male,68928,30,5,1306,Toys,Online,15,10,29,3180,Yes,Bronze
+49,Female,47994,14,8,2162,Beauty,Suburban,10,7,6,3333,Yes,Bronze
+63,Male,25000,1,3,282,Electronics,Suburban,10,2,0,1233,Yes,Bronze
+28,Female,41079,11,2,412,Books,Airport,10,10,20,2303,No,Bronze
+48,Female,46588,1,4,249,Beauty,Mall,10,6,11,2601,Yes,Bronze
+40,Female,64220,120,7,3102,Electronics,Downtown,10,9,34,5441,Yes,Silver
+64,Female,80039,120,3,1391,Clothing,Online,26,9,19,4118,Yes,Bronze
+28,Male,25000,18,3,274,Health,Online,10,11,22,1484,Yes,Bronze
+27,Male,25000,46,3,122,Home & Garden,Airport,10,11,16,1396,No,Bronze
+30,Male,25000,15,7,760,Toys,Airport,10,2,13,2132,No,Bronze
+18,Male,32305,40,3,219,Beauty,Downtown,10,3,20,1409,Yes,Bronze
+31,Female,45852,58,1,207,Health,Mall,10,3,30,1964,No,Bronze
+28,Male,59496,105,4,1069,Books,Online,10,5,17,3064,Yes,Bronze
+39,Female,34962,18,4,401,Sports,Airport,10,6,16,1588,Yes,Bronze
+42,Female,30948,55,3,496,Clothing,Online,10,2,28,2072,No,Bronze
+60,Female,39178,11,3,583,Home & Garden,Suburban,10,6,3,2522,No,Bronze
+49,Male,25000,120,1,129,Books,Online,10,9,32,1545,No,Bronze
+31,Female,103235,1,6,2484,Clothing,Mall,49,5,12,6072,Yes,Bronze
+27,Female,25000,33,8,460,Sports,Mall,10,3,30,1613,Yes,Bronze
+43,Female,39829,38,3,618,Electronics,Online,10,5,23,1861,Yes,Bronze
+22,Female,99887,41,2,734,Sports,Suburban,46,5,0,6753,Yes,Bronze
+59,Female,36439,4,6,509,Beauty,Mall,10,14,20,2058,No,Bronze
+52,Male,33023,100,3,557,Home & Garden,Airport,10,4,34,1665,Yes,Bronze
+32,Female,30372,7,5,990,Automotive,Online,10,16,17,2214,Yes,Bronze
+18,Male,33183,35,2,262,Food,Suburban,10,4,18,1694,Yes,Bronze
+54,Male,72144,9,5,2377,Toys,Airport,18,6,13,3576,Yes,Bronze
+36,Male,25000,13,1,102,Toys,Online,10,12,33,1017,No,Bronze
+52,Male,78175,28,6,1662,Electronics,Suburban,24,8,16,4759,Yes,Bronze
+18,Male,25000,19,2,162,Books,Airport,10,4,39,1082,No,Bronze
+30,Male,31782,6,3,568,Home & Garden,Mall,10,15,33,1749,Yes,Bronze
+38,Female,29301,6,3,269,Automotive,Online,10,4,35,1385,Yes,Bronze
+38,Female,48741,19,2,475,Electronics,Online,10,12,22,2091,Yes,Bronze
+32,Female,25000,50,7,582,Food,Mall,10,7,17,1556,Yes,Bronze
+45,Male,45756,82,3,473,Beauty,Downtown,10,15,26,2527,Yes,Bronze
+25,Male,99922,3,2,1046,Beauty,Airport,46,7,37,5778,Yes,Bronze
+36,Female,25000,17,5,442,Automotive,Mall,10,14,40,1792,Yes,Bronze
+39,Male,39928,3,3,420,Automotive,Online,10,4,4,1899,Yes,Bronze
+44,Male,26082,1,5,698,Automotive,Airport,10,10,49,2152,No,Bronze
+46,Female,44933,39,6,1595,Sports,Airport,10,8,25,4578,No,Bronze
+24,Male,36664,33,1,175,Toys,Downtown,10,12,30,1681,Yes,Bronze
+19,Female,26350,6,3,254,Health,Online,10,8,14,959,Yes,Bronze
+53,Female,46348,9,4,627,Home & Garden,Suburban,10,3,13,1756,Yes,Bronze
+41,Male,89516,1,7,2566,Health,Downtown,36,9,9,5023,Yes,Bronze
+29,Male,33009,64,6,868,Sports,Downtown,10,3,40,1895,Yes,Bronze
+56,Female,52045,120,9,1318,Books,Suburban,10,6,17,3411,No,Silver
+39,Male,25000,5,3,365,Beauty,Suburban,10,7,23,1607,Yes,Bronze
+52,Male,25000,9,3,307,Toys,Downtown,10,10,21,1048,Yes,Bronze
+38,Female,45991,73,2,178,Automotive,Airport,10,11,14,2281,Yes,Bronze
+62,Male,76271,93,8,1760,Food,Mall,22,4,22,4265,Yes,Silver
+59,Female,43382,19,4,589,Food,Mall,10,6,25,3525,Yes,Bronze
+35,Female,31053,1,3,364,Food,Downtown,10,10,37,1253,Yes,Bronze
+49,Male,36302,1,5,1137,Home & Garden,Airport,10,9,14,1981,Yes,Bronze
+45,Male,25000,30,1,107,Automotive,Suburban,10,8,19,1280,Yes,Bronze
+54,Male,49131,17,3,440,Toys,Downtown,10,11,31,2250,Yes,Bronze
+26,Male,56453,1,7,1685,Beauty,Online,10,10,26,4413,Yes,Bronze
+46,Male,28968,31,5,518,Health,Airport,10,2,26,1475,No,Bronze
+50,Female,28709,1,6,756,Automotive,Online,10,1,16,1610,No,Bronze
+18,Male,41478,55,5,974,Automotive,Online,10,6,34,3204,Yes,Bronze
+23,Female,29191,13,2,318,Sports,Downtown,10,18,41,1138,Yes,Bronze
+18,Female,35134,1,3,418,Books,Airport,10,14,40,2231,Yes,Bronze
+34,Female,103762,31,3,1857,Food,Online,50,12,25,5343,Yes,Bronze
+46,Female,32096,18,6,980,Electronics,Airport,10,1,1,1935,Yes,Bronze
+56,Male,30358,120,2,191,Toys,Mall,10,5,30,1478,Yes,Bronze
+38,Female,26271,28,3,524,Sports,Online,10,7,29,1218,No,Bronze
+57,Female,52685,11,7,1619,Books,Online,10,9,18,4016,Yes,Bronze
+21,Male,33169,44,3,298,Books,Airport,10,17,20,1795,Yes,Bronze
+18,Male,26247,11,1,157,Clothing,Mall,10,6,19,1613,No,Bronze
+37,Female,70308,84,6,2739,Food,Online,16,10,32,5644,Yes,Bronze
+42,Male,73850,16,5,1462,Clothing,Downtown,20,10,21,4788,Yes,Bronze
+37,Male,26897,28,4,365,Sports,Airport,10,6,31,1145,Yes,Bronze
+18,Male,25000,1,2,189,Books,Airport,10,6,53,1101,No,Bronze
+36,Male,60099,19,4,1167,Electronics,Online,10,7,28,4101,Yes,Bronze
+22,Female,25788,64,6,856,Toys,Mall,10,13,19,1755,No,Bronze
+46,Female,53923,58,6,1515,Clothing,Online,10,3,16,3888,Yes,Bronze
+42,Female,25000,9,3,309,Books,Suburban,10,2,34,1466,Yes,Bronze
+26,Male,56743,9,2,657,Toys,Online,10,11,51,2782,Yes,Bronze
+31,Male,25000,61,4,362,Food,Suburban,10,8,22,1693,No,Bronze
+25,Female,52332,95,4,1096,Health,Downtown,10,10,10,2006,Yes,Bronze
+37,Male,36575,3,1,133,Toys,Airport,10,13,49,1692,Yes,Bronze
+49,Male,25000,21,3,338,Books,Airport,10,11,57,1430,No,Bronze
+26,Female,29628,14,7,801,Sports,Mall,10,0,40,2179,Yes,Bronze
+44,Male,51182,73,4,805,Clothing,Online,10,8,37,2179,Yes,Bronze
+31,Female,38290,3,5,679,Clothing,Downtown,10,8,34,1729,Yes,Bronze
+28,Male,48640,8,5,1365,Beauty,Suburban,10,5,40,2820,Yes,Bronze
+36,Male,97559,50,3,913,Books,Mall,44,10,40,5223,Yes,Bronze
+25,Male,25000,1,3,233,Beauty,Downtown,10,0,37,1953,No,Bronze
+31,Female,81520,24,4,2134,Electronics,Downtown,28,6,25,4049,Yes,Bronze
+23,Female,38260,21,5,989,Electronics,Suburban,10,20,38,2054,Yes,Bronze
+61,Female,25000,14,5,142,Books,Suburban,10,1,34,2046,No,Bronze
+38,Female,25000,18,4,332,Clothing,Airport,10,2,28,1879,Yes,Bronze
+29,Male,33038,27,4,241,Food,Online,10,8,39,1448,Yes,Bronze
+40,Female,57573,6,4,658,Home & Garden,Mall,10,3,31,3707,Yes,Bronze
+36,Male,34071,30,5,50,Electronics,Online,10,7,37,2237,Yes,Bronze
+35,Female,77309,58,6,1779,Clothing,Mall,23,13,41,4795,Yes,Bronze
+45,Male,25000,51,2,131,Automotive,Downtown,10,10,43,1002,No,Bronze
+47,Female,36096,6,3,440,Automotive,Suburban,10,2,33,1838,No,Bronze
+31,Male,25000,5,1,51,Beauty,Suburban,10,12,42,1062,Yes,Bronze
+31,Male,43556,11,1,178,Toys,Downtown,10,7,45,2467,Yes,Bronze
+34,Female,56581,16,6,1188,Food,Downtown,10,20,48,3021,Yes,Bronze
+18,Male,29425,18,2,341,Beauty,Mall,10,11,42,1499,No,Bronze
+19,Male,25000,40,5,711,Automotive,Downtown,10,11,45,1427,Yes,Bronze
+54,Male,40113,2,3,594,Food,Mall,10,6,35,1578,No,Bronze
+57,Male,45178,1,5,815,Home & Garden,Online,10,19,66,3924,Yes,Bronze
+35,Female,44451,17,4,1134,Toys,Suburban,10,12,40,2877,Yes,Bronze
+44,Female,67365,43,6,863,Beauty,Suburban,13,8,52,5013,Yes,Bronze
+41,Female,25000,7,3,173,Automotive,Suburban,10,3,36,1120,Yes,Bronze
+74,Female,51026,36,4,795,Electronics,Online,10,5,45,3858,Yes,Bronze
+51,Male,65923,10,1,442,Electronics,Online,12,6,45,3169,Yes,Bronze
+36,Female,25000,78,6,563,Beauty,Airport,10,6,47,1856,Yes,Bronze
+26,Male,42609,81,3,483,Home & Garden,Mall,10,1,34,2918,Yes,Bronze
+18,Male,28223,12,4,256,Home & Garden,Mall,10,12,47,2067,Yes,Bronze
+40,Female,34864,9,2,358,Books,Airport,10,5,38,1902,Yes,Bronze
+28,Male,43210,19,5,1111,Toys,Suburban,10,8,52,2144,Yes,Bronze
+20,Female,28463,9,5,704,Clothing,Mall,10,7,35,1828,Yes,Bronze
+30,Male,25903,40,3,252,Home & Garden,Mall,10,10,47,1611,No,Bronze
+25,Female,36940,62,3,349,Toys,Suburban,10,6,45,1840,Yes,Bronze
+58,Female,25000,40,6,367,Home & Garden,Downtown,10,6,64,1483,Yes,Bronze
+48,Female,25000,62,4,410,Books,Downtown,10,18,57,975,Yes,Bronze
+37,Female,51005,18,1,137,Health,Airport,10,11,60,2052,Yes,Bronze
+55,Female,25000,6,2,129,Home & Garden,Online,10,10,39,1424,Yes,Bronze
+38,Male,50673,48,5,884,Toys,Mall,10,10,43,3492,Yes,Bronze
+27,Female,45765,16,2,312,Books,Mall,10,9,47,2943,No,Bronze
+56,Male,25000,40,6,503,Books,Airport,10,0,59,2504,Yes,Bronze
+44,Female,25879,11,4,472,Toys,Airport,10,18,52,1914,Yes,Bronze
+25,Female,65976,3,5,1350,Toys,Mall,12,13,41,3730,Yes,Bronze
+35,Female,25000,120,5,456,Electronics,Suburban,10,5,41,1306,Yes,Bronze
+27,Male,28790,6,3,364,Health,Suburban,10,2,61,1611,Yes,Bronze
+21,Male,45753,120,5,642,Books,Online,10,14,53,2322,Yes,Bronze
+49,Female,53728,120,6,1330,Electronics,Mall,10,9,50,3425,Yes,Silver
+60,Male,32023,56,5,669,Food,Mall,10,11,50,2311,Yes,Bronze
+21,Male,26936,38,2,118,Beauty,Mall,10,8,59,1558,No,Bronze
+44,Male,73952,31,4,1536,Beauty,Mall,20,15,40,5587,Yes,Bronze
+30,Female,86634,72,6,1529,Books,Airport,33,4,52,5521,No,Bronze
+32,Female,59244,12,3,730,Electronics,Downtown,10,2,53,2481,Yes,Bronze
+30,Male,37898,22,3,613,Health,Mall,10,11,39,1894,Yes,Bronze
+27,Male,25000,34,3,383,Health,Downtown,10,7,50,1582,No,Bronze
+38,Male,25000,19,3,303,Food,Suburban,10,14,76,1433,No,Bronze
+28,Female,47157,20,2,336,Books,Online,10,14,45,3076,No,Bronze
+41,Female,44765,14,4,919,Home & Garden,Suburban,10,6,55,2677,Yes,Bronze
+37,Male,73188,29,1,352,Food,Mall,19,8,33,3639,Yes,Bronze
+35,Male,50273,68,6,982,Electronics,Suburban,10,4,53,2116,Yes,Bronze
+27,Male,25000,8,3,228,Home & Garden,Airport,10,7,44,1189,Yes,Bronze
+31,Female,61449,98,5,464,Beauty,Downtown,10,6,51,3632,Yes,Bronze
+47,Female,25000,42,2,209,Sports,Mall,10,1,60,1482,Yes,Bronze
+44,Male,29971,62,5,584,Beauty,Airport,10,7,44,2096,No,Bronze
+26,Male,41154,29,5,1103,Books,Downtown,10,4,58,2854,Yes,Bronze
+39,Male,98502,54,7,3055,Toys,Airport,45,5,49,6090,Yes,Bronze
+47,Female,171950,1,10,5000,Beauty,Suburban,118,12,43,8567,Yes,Silver
+18,Male,49185,61,6,933,Automotive,Mall,10,10,67,2959,Yes,Bronze
+44,Female,33136,1,4,711,Beauty,Suburban,10,3,48,2041,Yes,Bronze
+30,Female,47441,79,4,638,Beauty,Online,10,3,54,3508,Yes,Bronze
+44,Male,56603,120,5,1396,Beauty,Mall,10,6,53,4377,Yes,Bronze
+28,Male,30935,12,5,347,Beauty,Suburban,10,9,61,1655,Yes,Bronze
+18,Male,89108,8,5,1907,Home & Garden,Mall,35,11,59,4586,Yes,Bronze
+18,Female,40742,52,6,395,Home & Garden,Downtown,10,6,58,1761,Yes,Bronze
+38,Female,46577,10,2,342,Beauty,Mall,10,19,53,2283,Yes,Bronze
+41,Female,50663,72,4,917,Clothing,Mall,10,7,57,2677,Yes,Bronze
+27,Female,44837,3,3,453,Clothing,Downtown,10,4,63,3815,Yes,Bronze
+45,Male,55241,4,8,1210,Home & Garden,Suburban,10,17,62,2622,Yes,Bronze
+18,Female,26672,120,1,133,Sports,Mall,10,9,72,1369,Yes,Bronze
+37,Female,27469,40,6,638,Toys,Airport,10,2,69,1625,Yes,Bronze
+23,Male,25000,67,1,85,Food,Mall,10,4,73,1311,No,Bronze
+30,Female,45240,14,6,1099,Automotive,Suburban,10,1,76,2708,Yes,Bronze
+38,Female,53608,40,5,1920,Automotive,Downtown,10,10,64,3982,Yes,Bronze
+27,Female,45655,32,6,1474,Beauty,Suburban,10,9,71,3215,Yes,Bronze
+33,Female,83888,33,3,1357,Sports,Online,30,11,66,5433,Yes,Bronze
+50,Female,36214,41,3,491,Clothing,Mall,10,6,77,1756,Yes,Bronze
+31,Female,50734,30,2,426,Clothing,Mall,10,9,46,3276,Yes,Bronze
+48,Male,25000,20,2,56,Sports,Downtown,10,7,61,1189,Yes,Bronze
+24,Male,29925,11,3,285,Toys,Mall,10,1,69,1251,Yes,Bronze
+44,Female,51419,52,3,528,Home & Garden,Airport,10,5,70,2745,No,Bronze
+55,Male,55522,9,5,485,Toys,Airport,10,6,65,3202,No,Bronze
+18,Male,31351,42,1,81,Books,Suburban,10,9,49,1178,Yes,Bronze
+28,Male,35038,9,4,227,Books,Downtown,10,6,64,2325,Yes,Bronze
+44,Male,25000,35,4,395,Clothing,Online,10,15,74,1205,Yes,Bronze
+35,Female,30378,49,3,454,Food,Suburban,10,10,63,1430,Yes,Bronze
+42,Female,56680,8,4,1207,Books,Downtown,10,9,68,3326,Yes,Bronze
+30,Male,48416,2,2,435,Clothing,Downtown,10,10,86,3012,No,Bronze
+39,Male,46645,5,4,530,Beauty,Suburban,10,9,65,1983,Yes,Bronze
+36,Male,37230,33,4,250,Health,Suburban,10,13,66,2407,Yes,Bronze
+52,Female,36443,68,3,206,Health,Mall,10,1,70,1161,Yes,Bronze
+41,Female,26103,1,5,323,Electronics,Online,10,9,71,1686,Yes,Bronze
+42,Male,51503,47,3,453,Beauty,Airport,10,2,70,2214,Yes,Bronze
+33,Female,44823,15,5,853,Health,Mall,10,4,73,2291,Yes,Bronze
+32,Female,46444,23,1,129,Toys,Downtown,10,6,57,3194,Yes,Bronze
+32,Female,27916,95,5,615,Electronics,Online,10,9,68,1412,No,Bronze
+42,Female,25000,14,4,372,Clothing,Online,10,3,57,1534,No,Bronze
+32,Male,62854,22,3,756,Sports,Suburban,10,6,70,2737,Yes,Bronze
+41,Female,28583,1,6,920,Sports,Online,10,17,76,2140,No,Bronze
+62,Male,25000,3,8,516,Clothing,Online,10,12,69,1844,No,Bronze
+48,Female,51366,10,4,925,Food,Downtown,10,9,61,3303,Yes,Bronze
+34,Female,29851,1,2,237,Clothing,Mall,10,5,67,2003,Yes,Bronze
+52,Female,61695,35,4,888,Home & Garden,Online,10,9,89,3245,Yes,Bronze
+33,Female,49439,20,5,1251,Sports,Suburban,10,4,86,3738,No,Bronze
+18,Male,51112,28,4,1033,Health,Mall,10,9,66,3888,Yes,Bronze
+25,Female,25000,6,3,214,Automotive,Suburban,10,11,67,1452,Yes,Bronze
+18,Female,66567,12,4,1006,Electronics,Online,13,8,71,2940,Yes,Bronze
+33,Female,41382,39,4,717,Food,Mall,10,3,85,1877,Yes,Bronze
+38,Male,30192,120,5,554,Books,Online,10,16,55,1943,No,Bronze
+58,Male,39014,1,5,917,Beauty,Downtown,10,3,67,1919,Yes,Bronze
+41,Male,25000,79,2,216,Food,Mall,10,10,77,976,Yes,Bronze
+35,Female,44548,30,5,1380,Books,Suburban,10,8,76,3331,Yes,Bronze
+47,Female,25000,29,5,270,Food,Downtown,10,1,69,1445,Yes,Bronze
+18,Male,25000,24,1,96,Automotive,Airport,10,14,71,1793,No,Bronze
+40,Female,25000,2,3,218,Food,Suburban,10,11,77,1194,Yes,Bronze
+47,Female,63344,3,2,598,Health,Online,10,11,70,3022,Yes,Bronze
+20,Female,26512,33,2,109,Clothing,Suburban,10,10,64,1477,Yes,Bronze
+51,Female,78187,15,5,1726,Home & Garden,Airport,24,5,73,4866,Yes,Bronze
+42,Female,27780,89,6,540,Electronics,Suburban,10,4,77,1800,No,Bronze
+33,Female,25000,18,3,233,Sports,Downtown,10,1,54,1447,No,Bronze
+45,Male,25000,5,6,339,Books,Suburban,10,9,79,2607,No,Bronze
+65,Female,67366,45,5,1159,Electronics,Mall,13,6,85,5238,Yes,Bronze
+40,Female,33592,12,2,356,Food,Airport,10,2,72,2204,Yes,Bronze
+40,Female,27607,26,3,328,Clothing,Suburban,10,2,73,1229,Yes,Bronze
+32,Female,39340,43,6,1121,Electronics,Airport,10,5,69,2535,No,Bronze
+27,Female,46671,82,3,839,Clothing,Downtown,10,16,75,2938,Yes,Bronze
+47,Male,63493,56,3,822,Books,Mall,10,0,71,4128,No,Bronze
+27,Male,74925,40,5,1247,Health,Online,21,2,91,5514,No,Bronze
+38,Male,30336,40,4,553,Health,Suburban,10,10,78,1571,Yes,Bronze
+32,Male,25000,105,4,334,Clothing,Downtown,10,8,55,1478,No,Bronze
+43,Female,29533,12,3,300,Clothing,Airport,10,14,83,1355,No,Bronze
+42,Female,41362,1,2,180,Home & Garden,Airport,10,7,94,2751,No,Bronze
+50,Male,25000,11,6,766,Beauty,Downtown,10,11,82,1925,Yes,Bronze
+31,Male,25000,8,3,265,Home & Garden,Suburban,10,14,89,1221,No,Bronze
+34,Female,43126,39,2,363,Electronics,Online,10,8,84,2408,Yes,Bronze
+26,Male,35442,36,5,488,Toys,Suburban,10,4,88,2170,Yes,Bronze
+32,Female,36915,32,1,166,Home & Garden,Mall,10,3,87,1594,Yes,Bronze
+42,Female,25000,1,3,231,Electronics,Suburban,10,3,88,1730,Yes,Bronze
+47,Female,32363,46,7,867,Sports,Mall,10,4,81,2242,No,Bronze
+26,Male,25000,14,3,379,Electronics,Airport,10,5,61,1326,Yes,Bronze
+48,Male,56675,39,6,1682,Electronics,Mall,10,1,67,2993,Yes,Bronze
+54,Female,60938,29,4,968,Clothing,Online,10,0,68,4165,Yes,Bronze
+42,Female,25000,15,4,187,Automotive,Downtown,10,15,53,1449,No,Bronze
+60,Male,25000,5,7,1328,Food,Mall,10,5,74,1694,No,Bronze
+28,Female,25000,3,3,457,Clothing,Suburban,10,4,93,1366,Yes,Bronze
+23,Male,26238,64,2,255,Clothing,Mall,10,18,64,1329,No,Bronze
+18,Female,34831,90,4,431,Automotive,Airport,10,11,86,2006,Yes,Bronze
+55,Male,25000,37,2,193,Automotive,Mall,10,17,84,1306,No,Bronze
+45,Female,25000,3,5,418,Food,Online,10,5,81,1030,Yes,Bronze
+37,Male,25000,18,4,551,Toys,Mall,10,3,91,1643,No,Bronze
+41,Male,40280,46,2,347,Sports,Online,10,6,79,1647,No,Bronze
+24,Male,37596,54,4,460,Home & Garden,Suburban,10,8,94,2770,Yes,Bronze
+67,Male,25314,4,7,608,Electronics,Airport,10,1,77,2185,Yes,Bronze
+39,Female,39672,1,7,1484,Home & Garden,Downtown,10,10,83,3323,Yes,Bronze
+39,Female,27630,44,3,490,Health,Suburban,10,7,78,827,Yes,Bronze
+46,Male,31703,15,2,369,Books,Suburban,10,15,70,1566,Yes,Bronze
+43,Male,83845,10,4,1646,Toys,Downtown,30,14,66,4731,Yes,Bronze
+40,Female,70985,1,5,1312,Books,Mall,17,12,85,4579,Yes,Bronze
+28,Female,25000,27,1,50,Electronics,Mall,10,5,93,1516,Yes,Bronze
+43,Female,54987,68,7,1676,Automotive,Mall,10,1,82,4540,Yes,Bronze
+60,Male,54485,113,8,1742,Electronics,Airport,10,8,85,1925,Yes,Silver
+54,Male,25000,30,8,833,Sports,Suburban,10,1,64,1603,Yes,Bronze
+57,Female,54687,26,5,1111,Home & Garden,Online,10,0,83,3376,No,Bronze
+31,Male,78351,3,5,943,Food,Downtown,24,2,59,5221,Yes,Bronze
+26,Female,25000,28,6,700,Beauty,Suburban,10,15,68,1891,Yes,Bronze
+36,Male,25000,17,5,594,Beauty,Mall,10,4,93,1815,Yes,Bronze
+38,Female,60405,33,1,291,Food,Downtown,10,7,80,2711,Yes,Bronze
+51,Male,41595,17,4,854,Automotive,Online,10,2,81,2277,Yes,Bronze
+18,Female,47845,9,3,678,Beauty,Suburban,10,12,85,2312,No,Bronze
+56,Female,43057,3,7,1057,Automotive,Suburban,10,15,87,2162,Yes,Bronze
+36,Female,44149,13,3,518,Clothing,Airport,10,17,77,1892,Yes,Bronze
+32,Male,25000,3,4,410,Sports,Suburban,10,4,82,1214,Yes,Bronze
+25,Female,61307,7,1,253,Toys,Suburban,10,4,79,3384,Yes,Bronze
+18,Female,65172,120,4,1355,Home & Garden,Online,11,13,64,3850,Yes,Bronze
+47,Female,32380,21,3,463,Home & Garden,Online,10,11,76,1480,No,Bronze
+38,Female,35534,27,4,922,Toys,Downtown,10,9,83,1435,Yes,Bronze
+22,Female,25000,74,3,498,Electronics,Mall,10,19,75,1277,Yes,Bronze
+22,Female,46963,120,3,577,Electronics,Online,10,12,75,3332,Yes,Bronze
+33,Male,48340,31,6,50,Books,Downtown,10,15,87,2605,Yes,Bronze
+58,Female,35203,60,6,1158,Electronics,Suburban,10,11,80,2688,Yes,Bronze
+34,Female,63715,14,5,1067,Automotive,Downtown,10,11,82,3797,Yes,Bronze
+19,Male,30728,13,1,93,Food,Downtown,10,0,62,1615,Yes,Bronze
+35,Male,48160,18,5,848,Clothing,Downtown,10,6,83,2026,Yes,Bronze
+34,Male,25000,40,1,86,Toys,Downtown,10,8,67,1162,Yes,Bronze
+18,Female,35890,41,4,679,Automotive,Online,10,7,78,1918,Yes,Bronze
+37,Female,33283,13,4,283,Automotive,Mall,10,2,68,2526,No,Bronze
+35,Female,40645,5,1,110,Books,Downtown,10,5,88,2161,Yes,Bronze
+46,Female,30189,36,3,399,Automotive,Airport,10,3,96,2221,Yes,Bronze
+60,Male,34005,4,1,161,Sports,Suburban,10,5,76,2167,No,Bronze
+51,Male,54886,31,3,785,Electronics,Suburban,10,10,76,2533,Yes,Bronze
+34,Male,29191,42,3,267,Home & Garden,Suburban,10,7,88,1640,Yes,Bronze
+24,Male,25000,43,1,70,Sports,Suburban,10,6,83,1712,Yes,Bronze
+68,Male,87098,50,4,1181,Clothing,Suburban,33,7,77,5457,Yes,Bronze
+38,Male,72455,74,7,2174,Clothing,Downtown,19,19,81,4922,Yes,Silver
+38,Female,25000,24,4,578,Clothing,Mall,10,4,97,1896,Yes,Bronze
+37,Female,51269,47,4,316,Electronics,Airport,10,8,70,3067,Yes,Bronze
+40,Female,28240,34,6,632,Automotive,Online,10,3,71,2098,Yes,Bronze
+36,Female,41429,7,3,298,Clothing,Airport,10,18,85,2280,No,Bronze
+31,Female,42070,1,3,254,Toys,Online,10,2,98,2171,Yes,Bronze
+31,Male,32299,12,4,666,Home & Garden,Online,10,2,78,1588,Yes,Bronze
+37,Female,25000,21,3,349,Automotive,Airport,10,12,59,883,Yes,Bronze
+31,Female,25712,34,1,116,Books,Downtown,10,11,80,1196,Yes,Bronze
+29,Male,25000,68,1,127,Electronics,Suburban,10,15,71,1313,Yes,Bronze
+39,Male,25000,7,4,342,Food,Downtown,10,8,80,1563,Yes,Bronze
+34,Female,35115,4,1,122,Sports,Suburban,10,5,62,2042,Yes,Bronze
+56,Male,25390,119,4,672,Health,Mall,10,8,61,1570,Yes,Bronze
+18,Female,51073,4,4,756,Sports,Online,10,3,72,4587,Yes,Bronze
+51,Female,76391,23,4,1491,Clothing,Airport,22,2,91,6311,Yes,Bronze
+52,Male,27172,31,4,435,Home & Garden,Mall,10,11,61,1113,Yes,Bronze
+18,Male,40933,28,3,218,Books,Suburban,10,7,71,2502,Yes,Bronze
+33,Male,46622,3,7,504,Automotive,Downtown,10,10,60,3285,Yes,Bronze
+33,Male,45981,2,2,303,Toys,Airport,10,6,77,1409,No,Bronze
+21,Male,37721,4,4,794,Beauty,Online,10,5,76,2370,Yes,Bronze
+28,Female,52645,31,3,781,Sports,Mall,10,15,59,3184,Yes,Bronze
+24,Male,46217,28,1,235,Beauty,Online,10,14,86,2308,Yes,Bronze
+59,Female,25000,9,3,211,Automotive,Suburban,10,3,54,1565,Yes,Bronze
+49,Male,56082,36,4,1332,Home & Garden,Online,10,9,89,3386,Yes,Bronze
+53,Female,56593,61,9,1447,Beauty,Downtown,10,6,86,4189,Yes,Silver
+46,Male,25000,1,2,212,Sports,Mall,10,8,76,1772,Yes,Bronze
+24,Male,37010,24,4,590,Food,Mall,10,11,81,2466,Yes,Bronze
+31,Female,51106,42,3,581,Health,Downtown,10,9,70,3470,Yes,Bronze
+43,Female,32706,10,5,916,Beauty,Online,10,10,56,1640,No,Bronze
+23,Male,62099,13,3,587,Food,Downtown,10,8,74,4737,Yes,Bronze
+46,Female,118413,34,5,1409,Food,Airport,65,11,55,7029,Yes,Bronze
+35,Male,25000,82,3,301,Clothing,Downtown,10,8,71,1318,Yes,Bronze
+33,Female,25000,59,1,88,Health,Online,10,7,58,1382,No,Bronze
+46,Male,42273,31,7,2382,Toys,Downtown,10,6,80,2796,Yes,Bronze
+43,Male,52092,47,6,1503,Sports,Suburban,10,13,74,3335,Yes,Bronze
+33,Female,32356,16,5,567,Books,Downtown,10,18,77,1990,No,Bronze
+51,Female,75104,36,5,1026,Automotive,Downtown,21,2,73,3740,Yes,Bronze
+25,Male,25000,22,2,87,Books,Online,10,3,88,1408,Yes,Bronze
+45,Female,51352,7,4,568,Beauty,Airport,10,13,79,2431,Yes,Bronze
+45,Female,26824,43,6,665,Health,Airport,10,14,86,1477,Yes,Bronze
+34,Male,85792,29,8,3920,Beauty,Online,32,9,59,4658,Yes,Bronze
+41,Female,98347,15,8,4206,Health,Online,44,5,63,6122,Yes,Bronze
+22,Male,25000,87,4,427,Sports,Online,10,15,44,1288,Yes,Bronze
+49,Female,27590,1,2,199,Automotive,Suburban,10,3,64,1674,Yes,Bronze
+35,Female,55814,13,6,1447,Automotive,Mall,10,13,67,4163,Yes,Bronze
+31,Female,29924,2,3,303,Sports,Downtown,10,5,71,1933,Yes,Bronze
+50,Male,35500,52,2,430,Toys,Online,10,5,61,2357,No,Bronze
+29,Male,36779,43,1,138,Food,Online,10,14,74,2131,Yes,Bronze
+21,Male,25000,14,5,487,Health,Online,10,20,73,1194,Yes,Bronze
+19,Male,36065,40,5,241,Electronics,Airport,10,6,61,1946,Yes,Bronze
+45,Male,25722,18,1,96,Electronics,Online,10,1,56,1864,No,Bronze
+22,Female,28379,50,4,568,Food,Downtown,10,11,66,1514,Yes,Bronze
+59,Male,74743,21,8,1625,Beauty,Online,21,5,66,6328,Yes,Bronze
+18,Male,25000,19,1,77,Health,Downtown,10,11,58,1130,No,Bronze
+58,Female,54535,98,6,1620,Home & Garden,Suburban,10,6,61,2050,Yes,Bronze
+40,Male,31587,10,7,492,Automotive,Mall,10,3,50,1964,Yes,Bronze
+36,Female,31574,4,5,831,Books,Airport,10,2,70,2429,Yes,Bronze
+31,Male,53916,31,3,543,Home & Garden,Downtown,10,4,70,3983,Yes,Bronze
+42,Female,43046,120,7,1064,Books,Suburban,10,8,63,1945,Yes,Silver
+37,Male,48305,17,3,384,Automotive,Mall,10,14,70,2984,No,Bronze
+51,Male,58929,2,4,1049,Electronics,Mall,10,6,63,4032,Yes,Bronze
+39,Female,30771,14,1,213,Sports,Mall,10,9,78,1994,No,Bronze
+39,Male,26739,25,4,528,Toys,Downtown,10,4,48,780,Yes,Bronze
+33,Female,25000,6,4,296,Clothing,Suburban,10,20,63,1809,Yes,Bronze
+37,Male,25000,38,4,536,Beauty,Online,10,2,70,1752,Yes,Bronze
+41,Male,158664,120,5,2871,Food,Suburban,105,12,75,9972,Yes,Silver
+18,Female,67666,21,5,1911,Electronics,Suburban,14,5,68,5054,Yes,Bronze
+21,Male,25000,15,4,496,Sports,Suburban,10,4,49,945,No,Bronze
+46,Female,25000,18,4,50,Sports,Downtown,10,9,43,1678,Yes,Bronze
+40,Female,46209,4,3,387,Books,Downtown,10,15,57,3608,Yes,Bronze
+35,Female,47745,77,6,1470,Sports,Downtown,10,12,62,2199,Yes,Bronze
+38,Female,47783,19,4,799,Health,Suburban,10,2,68,2792,Yes,Bronze
+42,Male,31969,17,1,88,Beauty,Downtown,10,11,47,1596,No,Bronze
+31,Male,34107,38,1,110,Clothing,Mall,10,7,64,1862,Yes,Bronze
+28,Male,42784,21,3,219,Electronics,Downtown,10,7,30,2501,Yes,Bronze
+40,Female,37909,37,6,885,Health,Airport,10,11,49,2052,Yes,Bronze
+26,Female,25000,2,3,498,Electronics,Downtown,10,18,65,1400,Yes,Bronze
+42,Male,32373,60,2,321,Toys,Downtown,10,10,44,2340,Yes,Bronze
+18,Female,25000,101,4,662,Clothing,Downtown,10,12,45,1674,Yes,Bronze
+50,Male,39640,37,1,200,Sports,Downtown,10,19,50,2063,No,Bronze
+43,Female,161559,111,4,3381,Toys,Airport,108,8,57,8080,Yes,Silver
+41,Male,43640,5,5,1389,Books,Online,10,7,43,3548,Yes,Bronze
+49,Female,31046,23,3,414,Toys,Downtown,10,15,54,1622,Yes,Bronze
+57,Female,57578,33,5,1086,Home & Garden,Mall,10,14,49,1967,Yes,Bronze
+50,Male,46228,31,5,1210,Books,Airport,10,12,65,3061,Yes,Bronze
+18,Male,44803,18,4,1029,Clothing,Online,10,14,48,3000,Yes,Bronze
+22,Male,49188,14,2,336,Beauty,Downtown,10,9,53,2435,Yes,Bronze
+30,Male,101546,4,9,2864,Home & Garden,Online,48,10,54,3533,Yes,Bronze
+38,Male,25000,17,7,729,Electronics,Mall,10,5,48,1389,Yes,Bronze
+44,Female,46019,6,2,459,Food,Airport,10,5,59,2450,Yes,Bronze
+29,Female,25000,47,1,123,Food,Airport,10,9,61,1167,Yes,Bronze
+40,Female,47942,8,5,549,Home & Garden,Online,10,10,46,2973,Yes,Bronze
+28,Male,25000,2,2,314,Beauty,Downtown,10,5,53,1581,No,Bronze
+30,Female,29475,28,4,380,Health,Suburban,10,4,41,1613,Yes,Bronze
+21,Female,31333,32,6,692,Food,Airport,10,12,55,1421,Yes,Bronze
+26,Male,59154,73,1,172,Home & Garden,Suburban,10,3,52,3935,Yes,Bronze
+21,Female,57482,30,4,1664,Clothing,Airport,10,4,45,3951,Yes,Bronze
+26,Female,25000,15,4,429,Automotive,Downtown,10,3,52,1779,Yes,Bronze
+50,Male,37326,58,5,555,Beauty,Downtown,10,2,54,2458,No,Bronze
+26,Male,25468,27,2,256,Beauty,Airport,10,5,60,1731,No,Bronze
+69,Female,25000,2,4,492,Health,Online,10,4,51,1457,No,Bronze
+43,Male,32581,30,7,860,Books,Downtown,10,22,56,2374,Yes,Bronze
+40,Female,31124,85,3,467,Sports,Downtown,10,14,66,1957,Yes,Bronze
+27,Female,122193,18,9,3309,Food,Mall,68,20,36,8439,Yes,Silver
+46,Female,45092,12,7,1075,Sports,Downtown,10,2,58,2227,Yes,Bronze
+31,Male,25000,5,4,158,Sports,Mall,10,6,37,1497,No,Bronze
+39,Male,27381,5,3,198,Clothing,Downtown,10,7,38,1646,No,Bronze
+68,Female,60517,20,6,2240,Electronics,Downtown,10,2,45,5420,Yes,Bronze
+36,Female,103179,32,3,1847,Sports,Online,49,15,38,5927,Yes,Bronze
+51,Male,25000,3,6,611,Beauty,Online,10,1,36,2120,Yes,Bronze
+29,Female,25000,101,2,299,Health,Downtown,10,8,43,969,Yes,Bronze
+37,Female,92547,50,5,1762,Health,Airport,39,6,40,4646,Yes,Bronze
+59,Male,44126,31,5,818,Automotive,Airport,10,4,36,2917,Yes,Bronze
+30,Male,25000,63,4,406,Electronics,Downtown,10,1,33,1717,No,Bronze
+59,Female,47444,3,7,1278,Books,Airport,10,10,56,2591,Yes,Bronze
+46,Male,25000,23,7,654,Beauty,Downtown,10,11,30,2032,Yes,Bronze
+31,Male,36376,35,1,195,Beauty,Online,10,5,40,1833,Yes,Bronze
+45,Male,42783,63,5,894,Automotive,Suburban,10,13,52,2450,Yes,Bronze
+49,Male,57649,55,2,559,Toys,Mall,10,12,49,3002,Yes,Bronze
+45,Female,25000,11,5,654,Automotive,Airport,10,6,43,2099,Yes,Bronze
+19,Female,37905,101,1,169,Sports,Airport,10,9,34,2345,Yes,Bronze
+29,Male,25000,4,2,141,Home & Garden,Online,10,10,39,1806,Yes,Bronze
+35,Female,41261,74,3,294,Health,Airport,10,6,28,2510,Yes,Bronze
+37,Female,25000,120,4,417,Automotive,Downtown,10,13,36,2030,Yes,Bronze
+45,Female,29612,7,1,112,Sports,Downtown,10,6,36,1596,Yes,Bronze
+40,Male,25000,46,3,307,Food,Suburban,10,12,36,1356,Yes,Bronze
+21,Male,50290,1,4,800,Electronics,Suburban,10,2,30,2695,Yes,Bronze
+42,Female,55783,18,4,1584,Beauty,Suburban,10,3,21,3332,Yes,Bronze
+45,Female,32295,26,5,388,Toys,Downtown,10,14,50,1813,Yes,Bronze
+44,Male,37016,31,8,477,Electronics,Suburban,10,6,47,2031,Yes,Bronze
+50,Male,25000,98,2,219,Sports,Suburban,10,7,45,1204,Yes,Bronze
+48,Male,31262,40,3,332,Books,Downtown,10,11,40,1932,Yes,Bronze
+43,Female,35415,23,6,930,Food,Online,10,1,37,2129,Yes,Bronze
+37,Female,134644,59,7,4430,Sports,Airport,81,5,29,5624,Yes,Bronze
+18,Female,25000,108,2,277,Home & Garden,Mall,10,9,29,885,Yes,Bronze
+43,Male,75515,1,7,1158,Clothing,Downtown,22,0,49,2622,Yes,Bronze
+40,Female,59780,120,4,796,Sports,Downtown,10,5,51,2434,Yes,Bronze
+41,Female,41786,3,1,188,Automotive,Mall,10,3,32,1661,No,Bronze
+22,Male,87492,60,6,2585,Sports,Mall,34,2,34,4427,Yes,Bronze
+25,Female,43741,11,6,1740,Automotive,Suburban,10,9,41,3107,Yes,Bronze
+50,Female,44116,5,4,908,Books,Mall,10,2,34,1996,Yes,Bronze
+37,Male,35363,20,5,695,Beauty,Airport,10,7,35,1776,Yes,Bronze
+46,Female,66955,37,6,1177,Health,Airport,13,6,32,2513,Yes,Bronze
+38,Male,62832,17,9,1879,Clothing,Airport,10,14,23,3502,Yes,Bronze
+38,Female,26559,2,2,174,Books,Airport,10,1,28,1705,Yes,Bronze
+49,Female,25000,32,4,478,Automotive,Airport,10,11,30,1496,Yes,Bronze
+31,Female,32810,83,7,989,Health,Suburban,10,10,6,2243,No,Bronze
+39,Female,25000,17,5,301,Home & Garden,Downtown,10,6,32,1549,No,Bronze
+32,Male,35180,8,4,489,Electronics,Mall,10,10,54,1505,Yes,Bronze
+32,Female,67421,21,3,1022,Clothing,Downtown,14,7,26,3476,Yes,Bronze
+34,Female,28892,1,4,511,Toys,Mall,10,9,30,1804,Yes,Bronze
+40,Male,35546,61,6,998,Books,Suburban,10,1,21,2849,Yes,Bronze
+32,Female,37384,63,6,1000,Electronics,Suburban,10,7,19,2595,No,Bronze
+53,Female,55504,31,6,1982,Electronics,Online,10,5,26,4280,Yes,Bronze
+27,Male,25000,15,7,749,Sports,Online,10,12,35,1350,Yes,Bronze
+35,Female,26813,57,3,284,Sports,Suburban,10,6,26,1074,Yes,Bronze
+32,Female,40361,29,1,117,Toys,Suburban,10,8,25,1327,Yes,Bronze
+55,Male,66173,62,5,1422,Toys,Mall,12,9,33,4559,Yes,Bronze
+40,Female,28397,35,5,152,Automotive,Suburban,10,8,30,1178,No,Bronze
+50,Male,25000,55,1,94,Toys,Downtown,10,19,30,1404,No,Bronze
+20,Male,49506,32,5,928,Electronics,Mall,10,12,39,2644,Yes,Bronze
+41,Male,26431,19,4,249,Automotive,Suburban,10,5,38,2088,No,Bronze
+48,Female,25000,114,3,216,Health,Mall,10,1,42,1342,No,Bronze
+38,Female,26577,28,3,396,Beauty,Mall,10,9,15,1407,Yes,Bronze
+50,Male,33114,33,4,566,Beauty,Airport,10,7,35,2001,Yes,Bronze
+31,Male,26839,8,2,221,Beauty,Online,10,10,43,1309,Yes,Bronze
+54,Female,25000,35,2,218,Clothing,Mall,10,12,10,1425,Yes,Bronze
+65,Male,56870,30,5,1169,Clothing,Mall,10,7,26,2685,Yes,Bronze
+33,Female,68695,7,4,1508,Toys,Airport,15,5,20,4218,Yes,Bronze
+32,Female,50300,2,2,417,Beauty,Suburban,10,10,25,2260,Yes,Bronze
+55,Female,25000,33,3,168,Home & Garden,Mall,10,9,37,1323,Yes,Bronze
+56,Female,32835,51,5,977,Sports,Airport,10,5,11,1562,Yes,Bronze
+31,Male,36197,26,1,160,Home & Garden,Downtown,10,5,27,2205,Yes,Bronze
+32,Female,48991,9,3,483,Beauty,Airport,10,11,19,2465,Yes,Bronze
+34,Female,50724,39,1,126,Beauty,Online,10,2,36,3104,Yes,Bronze
+21,Female,25157,3,7,788,Sports,Online,10,8,28,1521,Yes,Bronze
+26,Male,37835,20,2,292,Beauty,Suburban,10,6,22,2035,Yes,Bronze
+25,Female,45644,6,3,806,Books,Suburban,10,12,16,3050,No,Bronze
+28,Male,75200,7,9,2426,Electronics,Online,21,7,50,3755,Yes,Bronze
+37,Male,51650,8,4,618,Automotive,Online,10,11,26,2370,Yes,Bronze
+40,Male,53880,17,5,1367,Sports,Mall,10,4,9,3874,Yes,Bronze
+56,Female,37869,1,4,774,Beauty,Online,10,3,15,2939,Yes,Bronze
+26,Female,73513,18,3,926,Clothing,Suburban,20,16,27,3996,Yes,Bronze
+49,Female,44572,25,4,857,Clothing,Online,10,2,15,2164,Yes,Bronze
+35,Female,25000,23,3,296,Electronics,Suburban,10,5,16,1366,No,Bronze
+37,Male,73253,17,2,627,Clothing,Downtown,19,15,32,5350,Yes,Bronze
+46,Female,51480,65,2,555,Automotive,Online,10,15,31,1987,Yes,Bronze
+24,Male,29099,5,4,552,Food,Suburban,10,9,16,1935,Yes,Bronze
+42,Female,28574,25,1,108,Food,Airport,10,4,33,1528,Yes,Bronze
+39,Female,42120,2,6,1421,Food,Mall,10,15,15,2077,Yes,Bronze
+43,Female,45779,2,3,159,Electronics,Suburban,10,17,38,2190,Yes,Bronze
+41,Female,40080,30,5,1295,Electronics,Online,10,1,27,1695,Yes,Bronze
+67,Male,42431,30,6,497,Automotive,Online,10,4,24,2697,Yes,Bronze
+30,Male,84963,75,5,1379,Sports,Downtown,31,5,17,5350,Yes,Bronze
+31,Female,62054,29,1,245,Toys,Airport,10,10,15,2286,Yes,Bronze
+30,Male,39947,115,3,458,Food,Suburban,10,15,0,2394,Yes,Bronze
+31,Male,58142,1,4,1211,Clothing,Airport,10,6,18,2974,Yes,Bronze
+30,Female,25000,3,6,409,Home & Garden,Downtown,10,4,21,1402,Yes,Bronze
+52,Female,44309,1,3,573,Toys,Mall,10,5,2,2018,Yes,Bronze
+55,Male,89738,7,7,2076,Automotive,Airport,36,16,29,6082,Yes,Bronze
+31,Male,32564,28,2,283,Sports,Downtown,10,2,19,1206,Yes,Bronze
+28,Female,25000,37,4,392,Clothing,Suburban,10,8,32,1028,Yes,Bronze
+43,Female,26211,1,4,431,Beauty,Mall,10,2,13,1445,Yes,Bronze
+31,Male,25000,105,2,167,Sports,Online,10,4,32,1226,Yes,Bronze
+45,Male,25000,66,3,254,Food,Downtown,10,5,16,1627,Yes,Bronze
+40,Male,30174,12,3,393,Food,Online,10,6,19,1704,Yes,Bronze
+19,Male,25000,2,4,513,Beauty,Mall,10,10,22,1496,Yes,Bronze
+56,Male,36600,6,3,360,Automotive,Downtown,10,6,19,1384,Yes,Bronze
+59,Female,57018,4,3,505,Health,Downtown,10,6,23,2969,Yes,Bronze
+30,Female,25000,4,6,710,Sports,Mall,10,1,0,919,Yes,Bronze
+33,Female,77624,26,6,1844,Beauty,Suburban,24,5,18,4957,Yes,Bronze
+41,Male,46882,10,1,234,Automotive,Downtown,10,7,19,2741,Yes,Bronze
+42,Female,60796,15,2,354,Automotive,Mall,10,7,0,2697,Yes,Bronze
+45,Male,26136,120,3,146,Electronics,Airport,10,3,26,1602,Yes,Bronze
+62,Female,55673,41,2,374,Sports,Online,10,8,10,2678,Yes,Bronze
+35,Female,25000,107,5,385,Clothing,Downtown,10,10,29,1913,Yes,Bronze
+28,Male,56676,5,4,885,Health,Airport,10,4,20,3428,Yes,Bronze
+21,Female,39573,17,2,256,Books,Downtown,10,16,14,1596,Yes,Bronze
+29,Male,47888,29,4,936,Home & Garden,Suburban,10,4,30,3523,No,Bronze
+37,Female,25000,2,10,913,Sports,Mall,10,3,36,2347,Yes,Bronze
+59,Male,25000,1,4,418,Toys,Downtown,10,10,20,1372,No,Bronze
+31,Male,48952,39,2,410,Automotive,Mall,10,11,33,2836,Yes,Bronze
+40,Female,25000,36,5,529,Electronics,Downtown,10,21,18,1609,Yes,Bronze
+37,Male,45780,19,3,545,Beauty,Suburban,10,5,29,2353,Yes,Bronze
+52,Female,25000,24,4,461,Food,Suburban,10,5,16,1578,No,Bronze
+68,Male,55497,19,8,1352,Beauty,Airport,10,2,38,3755,Yes,Bronze
+31,Female,25000,1,4,567,Beauty,Suburban,10,4,30,1383,No,Bronze
+32,Female,47865,14,1,177,Health,Mall,10,8,24,3092,Yes,Bronze
+50,Female,49653,7,7,843,Sports,Suburban,10,19,0,1762,Yes,Bronze
+46,Male,25632,3,2,216,Beauty,Downtown,10,9,24,1562,Yes,Bronze
+60,Male,48582,113,5,723,Health,Suburban,10,7,7,2152,Yes,Bronze
+45,Male,41366,32,3,595,Books,Mall,10,16,23,2146,Yes,Bronze
+33,Male,27738,46,5,922,Clothing,Downtown,10,14,33,1220,Yes,Bronze
+45,Female,25000,13,4,305,Books,Airport,10,14,27,1046,Yes,Bronze
+51,Female,25000,17,6,659,Sports,Airport,10,9,29,1648,Yes,Bronze
+47,Female,43253,9,4,327,Food,Airport,10,1,16,2506,Yes,Bronze
+44,Female,25000,3,6,681,Books,Downtown,10,7,5,2065,Yes,Bronze
+50,Female,38088,7,5,559,Health,Airport,10,5,13,2109,Yes,Bronze
+52,Female,31833,57,2,206,Health,Suburban,10,13,17,1846,Yes,Bronze
+54,Male,50999,40,2,273,Home & Garden,Downtown,10,1,20,2736,Yes,Bronze
+45,Female,31225,28,2,304,Automotive,Downtown,10,0,33,1977,No,Bronze
+35,Female,30800,23,5,802,Toys,Downtown,10,0,28,1602,Yes,Bronze
+39,Female,52361,92,4,843,Toys,Online,10,14,43,3003,Yes,Bronze
+52,Male,42938,2,6,763,Sports,Mall,10,6,11,2832,Yes,Bronze
+28,Male,42534,11,3,753,Automotive,Online,10,5,33,2227,No,Bronze
+42,Male,45918,15,4,569,Home & Garden,Online,10,7,30,2815,Yes,Bronze
+33,Female,25000,54,6,210,Electronics,Online,10,8,20,1700,Yes,Bronze
+38,Female,53018,120,5,1206,Beauty,Mall,10,1,12,2933,Yes,Bronze
+53,Male,49327,9,7,923,Books,Online,10,6,15,3526,Yes,Bronze
+40,Female,25000,74,1,129,Automotive,Airport,10,18,15,635,Yes,Bronze
+38,Male,32143,63,4,455,Beauty,Downtown,10,8,39,1162,No,Bronze
+21,Male,35608,9,5,841,Electronics,Downtown,10,3,30,1802,No,Bronze
+46,Male,33953,18,4,771,Food,Suburban,10,14,31,2121,Yes,Bronze
+45,Female,42912,18,3,328,Home & Garden,Airport,10,6,23,1998,Yes,Bronze
+63,Female,74286,120,5,1233,Beauty,Mall,20,8,20,3145,Yes,Bronze
+34,Male,62372,7,4,975,Home & Garden,Downtown,10,13,26,3439,Yes,Bronze
+40,Female,25000,57,4,584,Home & Garden,Online,10,2,24,1657,Yes,Bronze
+40,Male,49564,14,3,477,Automotive,Suburban,10,11,22,2339,Yes,Bronze
+56,Female,70577,47,12,2783,Health,Suburban,17,1,27,3806,Yes,Silver
+36,Female,44064,19,8,1612,Clothing,Downtown,10,5,13,3061,Yes,Bronze
+41,Female,62660,31,6,1243,Sports,Airport,10,5,26,4376,Yes,Bronze
+45,Male,99323,64,7,2908,Toys,Suburban,45,7,22,4700,Yes,Bronze
+40,Female,60588,58,5,647,Home & Garden,Downtown,10,5,17,4532,Yes,Bronze
+32,Female,41136,72,2,547,Automotive,Airport,10,15,30,1942,Yes,Bronze
+40,Male,61239,2,7,1021,Automotive,Downtown,10,11,42,3166,Yes,Bronze
+50,Female,39043,42,5,705,Beauty,Downtown,10,5,37,2447,Yes,Bronze
+25,Male,36752,5,3,436,Beauty,Airport,10,7,22,2111,Yes,Bronze
+39,Female,30463,19,2,383,Books,Airport,10,3,31,955,No,Bronze
+29,Male,79356,28,3,573,Home & Garden,Airport,25,12,33,4128,Yes,Bronze
+52,Female,25000,18,3,478,Clothing,Downtown,10,12,26,1610,Yes,Bronze
+19,Female,78134,26,3,1150,Sports,Suburban,24,7,25,5280,Yes,Bronze
+31,Male,46626,120,3,629,Sports,Mall,10,7,29,2559,Yes,Bronze
+42,Male,25000,5,7,493,Food,Mall,10,15,51,1502,Yes,Bronze
+56,Male,43644,40,5,1022,Food,Downtown,10,10,29,3044,Yes,Bronze
+37,Male,25000,18,6,469,Books,Downtown,10,9,14,2201,Yes,Bronze
+31,Male,49650,5,1,274,Toys,Suburban,10,7,16,2612,Yes,Bronze
+60,Female,56535,6,5,801,Food,Airport,10,5,25,3167,Yes,Bronze
+20,Male,27006,107,5,521,Electronics,Downtown,10,1,15,2210,No,Bronze
+18,Male,38629,76,4,515,Books,Online,10,11,26,1699,Yes,Bronze
+43,Female,96478,85,4,1086,Sports,Airport,43,8,50,5422,Yes,Bronze
+31,Male,28201,120,3,413,Sports,Downtown,10,8,23,2405,Yes,Bronze
+25,Female,25000,8,6,696,Clothing,Online,10,5,17,1885,Yes,Bronze
+46,Female,76178,15,2,830,Automotive,Suburban,22,6,26,4777,Yes,Bronze
+40,Female,96886,39,5,903,Electronics,Online,43,11,28,4990,Yes,Bronze
+31,Female,36382,23,2,383,Toys,Downtown,10,6,19,2227,Yes,Bronze
+22,Female,60218,19,5,2109,Beauty,Mall,10,14,17,4691,Yes,Bronze
+48,Male,71021,15,3,736,Books,Downtown,17,12,43,2674,Yes,Bronze
+45,Male,25053,32,5,785,Food,Mall,10,9,35,1636,No,Bronze
+36,Male,28491,30,2,209,Health,Suburban,10,16,25,1548,No,Bronze
+60,Female,67200,6,4,632,Clothing,Suburban,13,23,19,3505,Yes,Bronze
+25,Male,84331,22,7,2144,Sports,Airport,30,3,25,4729,Yes,Bronze
+19,Female,48119,29,7,1771,Health,Airport,10,10,19,4102,Yes,Bronze
+29,Female,25000,30,5,374,Books,Mall,10,4,25,1657,Yes,Bronze
+37,Female,98079,8,4,1286,Home & Garden,Mall,44,2,52,4778,Yes,Bronze
+40,Female,27847,48,4,524,Toys,Suburban,10,2,34,2093,Yes,Bronze
+35,Male,30712,1,6,737,Home & Garden,Online,10,2,26,2628,No,Bronze
+42,Female,43095,15,4,810,Books,Mall,10,16,39,3018,Yes,Bronze
+22,Female,78990,54,7,2369,Home & Garden,Mall,25,8,23,4566,Yes,Bronze
+55,Male,55658,29,8,2037,Toys,Online,10,8,29,3455,Yes,Bronze
+37,Male,44686,10,6,933,Automotive,Airport,10,5,15,2205,Yes,Bronze
+51,Female,45781,42,4,783,Books,Airport,10,6,46,2820,No,Bronze
+42,Female,37114,30,6,642,Health,Mall,10,7,32,2803,Yes,Bronze
+43,Female,48005,57,7,1863,Home & Garden,Airport,10,12,26,3571,Yes,Bronze
+44,Female,25000,47,2,161,Toys,Airport,10,20,41,1645,Yes,Bronze
+43,Female,31310,33,5,838,Food,Airport,10,9,25,1221,No,Bronze
+45,Female,40972,24,6,914,Beauty,Suburban,10,6,25,2655,Yes,Bronze
+53,Male,25000,5,7,742,Toys,Downtown,10,5,32,2090,Yes,Bronze
+40,Male,44053,10,1,150,Clothing,Mall,10,1,24,2026,Yes,Bronze
+46,Male,32786,19,2,182,Beauty,Mall,10,4,30,1372,Yes,Bronze
+36,Female,87355,32,4,666,Food,Suburban,33,4,35,3636,Yes,Bronze
+55,Female,79738,25,5,1089,Electronics,Downtown,26,6,36,4650,Yes,Bronze
+29,Female,28770,12,3,311,Health,Downtown,10,9,24,1214,Yes,Bronze
+59,Male,33677,1,3,429,Sports,Suburban,10,3,35,2527,No,Bronze
+37,Female,34997,24,7,1276,Food,Online,10,6,44,2694,Yes,Bronze
+20,Female,28974,12,5,501,Automotive,Online,10,15,46,1649,Yes,Bronze
+39,Female,40035,47,4,471,Beauty,Downtown,10,7,34,2256,No,Bronze
+29,Female,25000,1,1,56,Automotive,Online,10,15,37,1443,Yes,Bronze
+48,Male,25000,31,2,228,Beauty,Online,10,1,37,1811,Yes,Bronze
+30,Female,49580,102,3,841,Clothing,Online,10,7,26,2302,No,Bronze
+32,Male,49749,6,6,1647,Electronics,Downtown,10,8,35,2749,Yes,Bronze
+18,Male,25000,22,2,242,Sports,Online,10,6,49,1283,No,Bronze
+32,Female,56821,3,5,1354,Clothing,Mall,10,16,49,2937,Yes,Bronze
+18,Female,26481,35,7,1119,Food,Downtown,10,9,45,1239,Yes,Bronze
+18,Female,41216,28,8,1450,Automotive,Suburban,10,1,15,2432,Yes,Bronze
+47,Female,54730,18,2,522,Beauty,Online,10,13,34,2477,Yes,Bronze
+47,Female,35710,26,4,516,Food,Airport,10,4,47,1611,Yes,Bronze
+43,Female,45586,81,2,215,Toys,Downtown,10,9,60,2582,Yes,Bronze
+26,Female,28051,7,1,89,Electronics,Suburban,10,8,43,1383,Yes,Bronze
+37,Male,32917,1,3,393,Health,Mall,10,8,44,2082,Yes,Bronze
+37,Male,32763,71,5,667,Toys,Suburban,10,4,43,1660,Yes,Bronze
+24,Male,25001,30,4,631,Automotive,Online,10,11,31,1745,Yes,Bronze
+56,Male,33243,79,4,544,Electronics,Airport,10,6,48,2042,Yes,Bronze
+48,Male,25000,32,3,406,Electronics,Online,10,7,30,1310,Yes,Bronze
+35,Male,28407,59,4,395,Food,Suburban,10,7,45,2230,Yes,Bronze
+38,Male,31494,20,4,456,Toys,Downtown,10,4,47,1934,Yes,Bronze
+40,Female,31949,49,4,307,Food,Airport,10,19,47,1538,Yes,Bronze
+18,Male,32184,87,5,500,Food,Airport,10,6,34,2079,No,Bronze
+35,Female,35211,30,2,326,Food,Suburban,10,16,40,1474,Yes,Bronze
+29,Male,46153,7,3,555,Automotive,Online,10,9,54,2463,Yes,Bronze
+25,Female,56232,11,2,577,Beauty,Suburban,10,18,48,4111,Yes,Bronze
+34,Male,26242,7,1,110,Beauty,Airport,10,0,41,914,Yes,Bronze
+59,Male,25000,10,7,625,Automotive,Suburban,10,6,38,1562,Yes,Bronze
+45,Female,25000,13,4,657,Sports,Airport,10,3,57,1588,No,Bronze
+31,Male,28464,29,5,553,Health,Online,10,2,49,1704,Yes,Bronze
+44,Male,30456,31,3,492,Clothing,Downtown,10,7,38,1593,Yes,Bronze
